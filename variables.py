@@ -5,3 +5,21 @@
 # 5. Variables are case sensitive
 # 6. Its a good practice to define meaningful variable names
 
+x = 1000
+print(x)
+
+_____ = 25
+print(_____)
+
+# if = 33
+# print(if)
+
+a = 35
+A = 88
+print(a)
+print(A)
+
+firstnumber = 10
+secondnumber = 25
+addition = firstnumber + secondnumber
+print(addition)
